@@ -1,0 +1,18 @@
+#serachbox {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+#serachbox a {
+    height: 40px;
+    margin-top: 10px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+#search_input {
+    width: 80%;
+    height: 40px;
+    
+}

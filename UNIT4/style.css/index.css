@@ -1,0 +1,15 @@
+#check {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 30px;
+}
+.class {
+    display: grid;
+    grid-template-columns: repeat(1, 20%);
+    height: 30px;
+    /* gap: 20px; */
+}
+.news img {
+    width: 300px;
+    height: 200px;
+}
